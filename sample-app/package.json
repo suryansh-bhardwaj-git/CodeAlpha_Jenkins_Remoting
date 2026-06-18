@@ -1,0 +1,8 @@
+{
+  "name": "jenkins-remoting-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'All tests passed.' && exit 0",
+    "build": "echo 'Build complete.' && exit 0"
+  }
+}
